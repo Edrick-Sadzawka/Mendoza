@@ -1,0 +1,57 @@
+.comida {
+    text-align: left;
+    font-size: 35px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    text-decoration: underline;
+    color: white;
+}
+.c1 {
+    background-color: lightsalmon;
+    border-radius: 10px;
+    
+}
+body {
+    margin: 2cm;
+    background-image: linear-gradient(red,yellow,khaki);
+}
+.contenido {
+    margin-left: 1cm;
+    margin-right: 1cm;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color: white;   
+}
+.yo {
+    width: 20%;
+    height: 20%;
+    border-radius: 10px;
+    text-align: end;
+}
+.uno {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    text-align: center;
+    text-decoration: underline;
+    color: white;
+}
+.menu {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    background-color: lightsalmon;
+    border-radius: 10px;
+    width: 30%;
+    color: white;
+}
+.boton {
+    text-align: center;
+    background-color: lightblue;
+    border-radius: 10px;
+    margin-left: 12cm;
+    margin-right: 12cm;
+    color: black;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    text-decoration:underline;
+    color: white;
+}
+.boton:hover {
+    background-color: lightcyan;
+    color: black;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
